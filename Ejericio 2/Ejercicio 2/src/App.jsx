@@ -12,6 +12,7 @@ function App() {
   const incomes = netIncomes.map(item => item.income);
   return { brands, incomes };
 
+
 }
 export default App;
 
